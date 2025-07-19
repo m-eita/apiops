@@ -1,0 +1,6 @@
+apimServiceName: prod-az-apim-git
+namedValues:
+loggers:
+diagnostics:
+backends:
+apis:
